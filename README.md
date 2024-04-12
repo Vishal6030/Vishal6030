@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to Vishal's profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Software Engineer+Developer;Indian+Backend+Dev;Cat+Lover+:3;function+findQuestion(42)" alt="Software Engineer,  Java developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Vishal;Software Engineer+Developer;Java Developer+Backend+Dev;function+findQuestion(42)" alt="Software Engineer,  Java developer"></a>
 </div>
 
 <a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
